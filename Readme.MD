@@ -19,6 +19,8 @@
     features in technology in our application through updates in order to create the best user experience. 
     safeMed is the future of eMAR! Our goal is help medical professionals spend more time with patients and 
     less time dealing with outdated technology. 
+    
+    Visit safeMed: https://project2-safe-med.herokuapp.com
 
  
 ## Table of Contents
